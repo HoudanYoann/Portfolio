@@ -1,4 +1,3 @@
-🗂 
 # Site Web - Portfolio
 
 # 📚 Index

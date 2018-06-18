@@ -17,13 +17,27 @@ Au programme :
 
 **Création d'un Site pour personne souhaitant devenir auto-entrepreneur/Freelance**
 
-#### This will also be bold
+#### Global
 - Je souhaite créer ce site avec un menu Administrateur qui soit simple d'utilisation et facile à comprendre.
-- L'utilisateur pourra créer un article sur le blog afin de montrer son avancé et ces futures créations.
 - Il pourra insérer ces réseaux sociaux avec le lien afin que les visiteurs puissent voir ces différents réseaux.
 - Ajouter sur la catégorie "Portfolio" ces créations par le biais d'image et d'insertion d'outils utilisés (Exemple : Adobe Illustrator / Photoshop / etc) affiché par le biais de logo vectoriel.
+- L'utilisateur pourra créer un article sur le blog afin de montrer son avancé et ces futures créations.
 - Catégorie : "Article(s) récent(s)" sera ajouté à la page d'accueil et qui sera mis à jour selon les articles ajoutés.
 - Catégorie : "Update/Mise à Jour" qui sera disponible ici afin d'avertir des futurs mises à jour et ce qui sera apporté pour celle-ci.
+
+
+#### Accueil
+
+L'accueil se présentera sous 2 parties : 
+
+column-left   : Présentation des articles que l'utilisateur aura écrit afin de présenter son activité / ces créations ou autres, les dates seront définies lors de la création de l'article.
+
+column-right  : Plusieurs catégories seront présentes : 
+
+"Mise(s) à jour" elle montrera la futur mise à jour du site et vous permettra d'accéder aux informations de celle-ci.
+"Article(s) récent(s)" vous donnera un aperçu des articles crée par l'utilisateur qui sera limité à 3 affichage maximum.
+"Réseaux Sociaux" vous donnera accès aux liens des réseaux qu'aura défini l'utilisateur.
+
 
 
 ## Fonctionnalités

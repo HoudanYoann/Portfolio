@@ -75,6 +75,7 @@ Quand l'utilisateur sera connecté sur sa session admin, il pourra créer un nou
 
 ## Fonctionnalités
 
+*Panel Administrateur*
 - [ ] Connexion/Déconnexion
 - [ ] Accès au menu Administrateur quand il sera connecté en tant qu'Administrateur
 
@@ -89,10 +90,12 @@ Quand l'utilisateur sera connecté sur sa session admin, il pourra créer un nou
 - [ ] Système de niveau de compétence sur un logiciel
 - [ ] Modification du niveau de compétence sur un logiciel défini
 
+*Blog*
 - [ ] Création d'un article dans la catégorie "Blog"
 - [ ] Modification d'un article dans la catégorie "Blog"
 - [ ] Suppression d'un article dans la catégorie "Blog"
 
+*Portfolio*
 - [ ] Ajout d'une création dans la catégorie "Portfolio"
 - [ ] Modification d'une création dans la catégorie "Portfolio"
 - [ ] Suppression d'une création dans la catégorie "Portfolio"

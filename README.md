@@ -78,6 +78,10 @@ Quand l'utilisateur sera connecté sur sa session admin, il pourra créer un nou
 *Panel Administrateur*
 - [ ] Connexion/Déconnexion
 - [ ] Accès au menu Administrateur quand il sera connecté en tant qu'Administrateur
+- [ ] Système d'ajout d'un réseau social
+- [ ] Ajout d'un article dans la catégorie : Blog
+- [ ] Ajout d'une expérience dans la catégorie : À Propos
+
 
 *À Propos*
 - [ ] Ajout d'un avatar pour l'autobiographie dans la catégorie "À Propos"
@@ -99,3 +103,9 @@ Quand l'utilisateur sera connecté sur sa session admin, il pourra créer un nou
 - [ ] Ajout d'une création dans la catégorie "Portfolio"
 - [ ] Modification d'une création dans la catégorie "Portfolio"
 - [ ] Suppression d'une création dans la catégorie "Portfolio"
+
+## Contact 
+
+Contact | Email
+------------ | -------------
+📪 | houdan.yoann@gmail.com

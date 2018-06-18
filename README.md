@@ -15,7 +15,7 @@ Au programme :
 - [x] MySQL
 (Certaines choses s'ajouteront au fur et à mesure de mes idées venues)
 
-Création d'un Portfolio pour personne souhaitant devenir auto-entrepreneur/Freelance
+**Création d'un Portfolio pour personne souhaitant devenir auto-entrepreneur/Freelance**
 
 - Je souhaite créer ce Portfolio avec un menu Administrateur qui soit simple d'utilisation et facile à comprendre.
 - L'utilisateur pourra créer un article sur le blog afin de montrer son avancé et ces futures créations.

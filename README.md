@@ -3,11 +3,7 @@
 
 # 📚 Index
 
-https://github.com/HoudanYoann/Portfolio/blob/master/README.md#pr%C3%A9sentation
-https://github.com/HoudanYoann/Portfolio#global
-https://github.com/HoudanYoann/Portfolio#accueil
-https://github.com/HoudanYoann/Portfolio#%C3%80-propos
-https://github.com/HoudanYoann/Portfolio#portfolio
+[Présentation](https://github.com/HoudanYoann/Portfolio#pr%C3%A9sentation)
 
 ## Présentation 
 

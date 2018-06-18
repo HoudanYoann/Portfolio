@@ -67,9 +67,31 @@ Ce portfolio montrera un aperçu en premier plan de sa création, quand vous cli
 - Lien du client (optionnel si le client possède bel et bien un site web)
 - Description du projet
 
+#### Blog
+
+Le blog informera aux visiteurs des nouvelles que l'utilisateur aura rédigé.
+Quand l'utilisateur sera connecté sur sa session admin, il pourra créer un nouvel article en y insérant une image et pourra décrire son article et le modifier quand il le voudra.
 
 
 ## Fonctionnalités
 
-## Contact 
+- [ ] Connexion/Déconnexion
+- [ ] Accès au menu Administrateur quand il sera connecté en tant qu'Administrateur
 
+- [ ] Ajout d'un avatar pour l'autobiographie dans la catégorie "À Propos"
+- [ ] Modification de l'avatar pour l'autobiographie dans la catégorie "À Propos"
+- [ ] Ajout de l'arborescence avec restriction d'une Arborescence maximum !
+- [ ] Modification de l'arborescence
+- [ ] Ajout des compétences sur un choix de logiciels prédéfinis
+- [ ] Modification des compétences des logiciels
+- [ ] Suppression des compétences d'un logiciel
+- [ ] Système de niveau de compétence sur un logiciel
+- [ ] Modification du niveau de compétence sur un logiciel défini
+
+- [ ] Création d'un article dans la catégorie "Blog"
+- [ ] Modification d'un article dans la catégorie "Blog"
+- [ ] Suppression d'un article dans la catégorie "Blog"
+
+- [ ] Ajout d'une création dans la catégorie "Portfolio"
+- [ ] Modification d'une création dans la catégorie "Portfolio"
+- [ ] Suppression d'une création dans la catégorie "Portfolio"

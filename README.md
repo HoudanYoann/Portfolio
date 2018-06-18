@@ -78,6 +78,7 @@ Quand l'utilisateur sera connecté sur sa session admin, il pourra créer un nou
 - [ ] Connexion/Déconnexion
 - [ ] Accès au menu Administrateur quand il sera connecté en tant qu'Administrateur
 
+*À Propos*
 - [ ] Ajout d'un avatar pour l'autobiographie dans la catégorie "À Propos"
 - [ ] Modification de l'avatar pour l'autobiographie dans la catégorie "À Propos"
 - [ ] Ajout de l'arborescence avec restriction d'une Arborescence maximum !

@@ -16,7 +16,8 @@ Au programme :
 (Certaines choses s'ajouteront au fur et à mesure de mes idées venues)
 
 **Création d'un Site pour personne souhaitant devenir auto-entrepreneur/Freelance**
-__This will also be bold__
+
+### This will also be bold
 - Je souhaite créer ce site avec un menu Administrateur qui soit simple d'utilisation et facile à comprendre.
 - L'utilisateur pourra créer un article sur le blog afin de montrer son avancé et ces futures créations.
 - Il pourra insérer ces réseaux sociaux avec le lien afin que les visiteurs puissent voir ces différents réseaux.

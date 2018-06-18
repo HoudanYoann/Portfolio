@@ -50,6 +50,7 @@ L'utilisateur pourra :
 - Créer une description pour se présenter
 - Montrer ces expériences par le biais d'une arborescence qu'il pourra mettre à jour à sa guise.
 - Montrer ces compétences sur un panel de choix d'applications/logiciels utilisés et un système de niveau de compétence sur ce logiciel
+
 ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐
 ------------ | ------------- | ------------- | ------------- | -------------
 Apprentissage | Notions | Bases | Assez expérimenté | Expérimenté
